@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="kartuku" type="id" />
+    <item name="textNama" type="id" />
+    <item name="textTelpon" type="id" />
+</resources>

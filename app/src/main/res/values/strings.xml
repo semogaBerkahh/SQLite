@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="editdata">Edit</string>
+    <string name="deletedata">Hapus</string>
+    <string name="masukdata">Tambahkan Kontak</string>
+
+</resources>
